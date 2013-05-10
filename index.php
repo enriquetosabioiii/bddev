@@ -2,6 +2,7 @@
 
 /**
  *Sample Change
+ *Added more sample changes
  * This sample app is provided to kickstart your experience using Facebook's
  * resources for developers.  This sample app provides examples of several
  * key concepts, including authentication, the Graph API, and FQL (Facebook
